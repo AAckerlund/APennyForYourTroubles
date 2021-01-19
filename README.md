@@ -1,4 +1,4 @@
-#A Penny For Your Troubles
+# A Penny For Your Troubles
 
 This program is a mod for the Rougelike Deckbuilder [Slay the Spire](https://store.steampowered.com/app/646570/)
 
